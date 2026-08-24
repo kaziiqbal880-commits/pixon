@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "title": "Neon Horizon",
+        "imageUrl": "https://images.unsplash.com/photo-1519608487953-e999c86e7455",
+        "prompt": "A colossal futuristic city beneath a glowing neon horizon, flying vehicles weaving between skyscrapers, cinematic lighting, atmospheric depth",
+        "category": "Sci-Fi",
+        "model": "SDXL",
+        "resolution": "1024x1024",
+        "likes": 482,
+        "downloads": 126,
+        "createdAt": "2026-08-24T10:20:00Z",
+        "tags": [
+            "futuristic",
+            "city",
+            "neon",
+            "space"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Moonlit Quest",
+        "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
+        "prompt": "A lone fantasy knight standing before an ancient enchanted castle under a giant moon, mystical fog, glowing runes, epic fantasy atmosphere",
+        "category": "Fantasy",
+        "model": "Midjourney v6",
+        "resolution": "1024x1536",
+        "likes": 567,
+        "downloads": 143,
+        "createdAt": "2026-08-23T18:45:00Z",
+        "tags": [
+            "knight",
+            "castle",
+            "magic",
+            "moon"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Arcade Sunset",
+        "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+        "prompt": "A nostalgic 16-bit arcade street at sunset, colorful pixel buildings, tiny characters, glowing signs, classic retro game aesthetic",
+        "category": "Pixel Art",
+        "model": "Stable Diffusion",
+        "resolution": "1280x1280",
+        "likes": 391,
+        "downloads": 97,
+        "createdAt": "2026-08-22T14:12:00Z",
+        "tags": [
+            "pixel",
+            "arcade",
+            "retro",
+            "sunset"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Chrome Rain",
+        "imageUrl": "https://images.unsplash.com/photo-1531058020387-3be344556be6",
+        "prompt": "A cyberpunk detective walking through a rain-soaked neon alley, reflective chrome surfaces, holographic advertisements, dramatic cinematic lighting",
+        "category": "Cyberpunk",
+        "model": "DALL·E 3",
+        "resolution": "1792x1024",
+        "likes": 534,
+        "downloads": 138,
+        "createdAt": "2026-08-21T21:30:00Z",
+        "tags": [
+            "cyberpunk",
+            "rain",
+            "detective",
+            "neon"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Floating Memories",
+        "imageUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401",
+        "prompt": "A surreal dreamscape where giant clocks float above an endless ocean, melting islands, luminous clouds, impossible architecture, dreamlike colors",
+        "category": "Surreal",
+        "model": "Midjourney v6",
+        "resolution": "1024x1024",
+        "likes": 447,
+        "downloads": 111,
+        "createdAt": "2026-08-20T16:05:00Z",
+        "tags": [
+            "dream",
+            "ocean",
+            "clocks",
+            "dreamscape"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Digital Paradise",
+        "imageUrl": "https://images.unsplash.com/photo-1497366811353-6870744d04b2",
+        "prompt": "A dreamy vaporwave landscape with pastel palm trees, pink mountains, a glowing grid floor and retro sunset, nostalgic 1980s aesthetic",
+        "category": "Vaporwave",
+        "model": "Stable Diffusion",
+        "resolution": "1024x1024",
+        "likes": 356,
+        "downloads": 84,
+        "createdAt": "2026-08-24T08:10:00Z",
+        "tags": [
+            "vaporwave",
+            "pastel",
+            "retro",
+            "palms"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Morning Portrait",
+        "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+        "prompt": "Ultra-realistic portrait of a young man near a large window during soft morning light, natural skin texture, shallow depth of field, editorial photography",
+        "category": "Realistic",
+        "model": "DALL·E 3",
+        "resolution": "1024x1024",
+        "likes": 298,
+        "downloads": 73,
+        "createdAt": "2026-08-23T09:25:00Z",
+        "tags": [
+            "portrait",
+            "realistic",
+            "editorial",
+            "light"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Quiet Geometry",
+        "imageUrl": "https://images.unsplash.com/photo-1497366754035-f200968a6e72",
+        "prompt": "A minimalist architectural interior with geometric furniture, soft natural shadows, neutral surfaces, clean lines and abundant negative space",
+        "category": "Minimal",
+        "model": "SDXL",
+        "resolution": "1024x1024",
+        "likes": 214,
+        "downloads": 52,
+        "createdAt": "2026-08-22T11:40:00Z",
+        "tags": [
+            "minimal",
+            "architecture",
+            "geometry",
+            "clean"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Brass Voyager",
+        "imageUrl": "https://images.unsplash.com/photo-1518709594023-6eab9bab7b23",
+        "prompt": "A magnificent Victorian airship powered by brass machinery flying above a sprawling industrial city, intricate gears, copper pipes, golden sunset",
+        "category": "Steampunk",
+        "model": "Midjourney v6",
+        "resolution": "1536x1024",
+        "likes": 512,
+        "downloads": 129,
+        "createdAt": "2026-08-19T19:15:00Z",
+        "tags": [
+            "steampunk",
+            "airship",
+            "brass",
+            "gears"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Astral Garden",
+        "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b",
+        "prompt": "An alien botanical garden on a distant planet, enormous glowing flowers, crystalline trees, two moons in the sky, peaceful futuristic atmosphere",
+        "category": "Sci-Fi",
+        "model": "Stable Diffusion",
+        "resolution": "1536x1024",
+        "likes": 438,
+        "downloads": 104,
+        "createdAt": "2026-08-24T12:35:00Z",
+        "tags": [
+            "alien",
+            "garden",
+            "planet",
+            "glowing"
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Forest Guardian",
+        "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+        "prompt": "A majestic ancient forest guardian made of bark and vines standing among enormous trees, magical particles, soft sunlight, highly detailed fantasy art",
+        "category": "Fantasy",
+        "model": "SDXL",
+        "resolution": "1024x1536",
+        "likes": 589,
+        "downloads": 147,
+        "createdAt": "2026-08-21T07:50:00Z",
+        "tags": [
+            "guardian",
+            "forest",
+            "magic",
+            "nature"
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Pixel Samurai",
+        "imageUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477",
+        "prompt": "A pixel-art samurai standing on a futuristic rooftop beneath falling cherry blossoms, limited color palette, detailed sprites, classic RPG aesthetic",
+        "category": "Pixel Art",
+        "model": "Stable Diffusion",
+        "resolution": "1280x1280",
+        "likes": 367,
+        "downloads": 91,
+        "createdAt": "2026-08-20T13:20:00Z",
+        "tags": [
+            "samurai",
+            "pixel",
+            "rpg",
+            "cherry"
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Electric Metropolis",
+        "imageUrl": "https://images.unsplash.com/photo-1519501025264-65ba15a82390",
+        "prompt": "A vast cyberpunk metropolis at midnight, towering holographic billboards, electric motorcycles, crowded streets, atmospheric rain and vivid neon",
+        "category": "Cyberpunk",
+        "model": "DALL·E 3",
+        "resolution": "1792x1024",
+        "likes": 476,
+        "downloads": 118,
+        "createdAt": "2026-08-18T22:10:00Z",
+        "tags": [
+            "city",
+            "cyberpunk",
+            "hologram",
+            "night"
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Infinite Staircase",
+        "imageUrl": "https://images.unsplash.com/photo-1500534623283-312aade485b7",
+        "prompt": "An impossible white staircase spiraling through an endless sky, floating doors and geometric shadows, surreal architectural composition, ethereal atmosphere",
+        "category": "Surreal",
+        "model": "Midjourney v6",
+        "resolution": "1024x1536",
+        "likes": 421,
+        "downloads": 106,
+        "createdAt": "2026-08-17T15:30:00Z",
+        "tags": [
+            "surreal",
+            "stairs",
+            "architecture",
+            "sky"
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Retro Future Drive",
+        "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7",
+        "prompt": "A retro-futuristic sports car cruising along a glowing coastal highway at sunset, synthwave atmosphere, pastel sky, reflections and cinematic composition",
+        "category": "Vaporwave",
+        "model": "SDXL",
+        "resolution": "1536x1024",
+        "likes": 503,
+        "downloads": 132,
+        "createdAt": "2026-08-19T10:45:00Z",
+        "tags": [
+            "vaporwave",
+            "car",
+            "synthwave",
+            "highway"
+        ]
+    }
+]
