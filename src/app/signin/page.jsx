@@ -16,6 +16,12 @@ import { toast } from "react-toastify";
 
 
 export default function SignUpPage() {
+    const signinWithGoogle = async () => {
+        const data = await authClient.signIn.social({
+            provider: "google"
+        })
+
+    }
     const onSubmit = async (e) => {
         e.preventDefault();
         const email = e.target.email.value
@@ -96,7 +102,10 @@ export default function SignUpPage() {
                         Reset
                     </Button>
                 </div>
+                <p className="font-bold text-2xl">or</p>
+                <Button className="w-full" variant="outline">SignIn With Google</Button>
             </Form>
+
         </Card>
     );
 }
