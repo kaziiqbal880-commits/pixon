@@ -15,7 +15,7 @@ import {
 import { toast } from "react-toastify";
 
 
-export default function SignUpPage() {
+export default function SignInPage() {
     const signinWithGoogle = async () => {
         const data = await authClient.signIn.social({
             provider: "google"
@@ -102,8 +102,8 @@ export default function SignUpPage() {
                         Reset
                     </Button>
                 </div>
-                <p className="font-bold text-2xl">or</p>
-                <Button className="w-full" variant="outline">SignIn With Google</Button>
+                <p className="font-bold text-2xl flex text-center">or</p>
+                <Button onClick={() => signinWithGoogle()} className="w-full" variant="outline">SignIn With Google</Button>
             </Form>
 
         </Card>
