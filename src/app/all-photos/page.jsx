@@ -1,5 +1,6 @@
 import { Button, Card, Chip, Separator } from "@heroui/react";
 import Image from "next/image";
+import Link from "next/link";
 import { FcLike } from "react-icons/fc";
 import { FiDownload } from "react-icons/fi";
 
@@ -11,7 +12,7 @@ const AllPhotos = async () => {
     return (
         <div className="">
             <h1 className="font-bold text-2xl my-3">All Photos</h1>
-            <div className="grid grid-cols-4 gap-4">
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
                 {
                     photos.map(photo => (<Card key={photo.id}
                         className="border rounded-xl">
@@ -19,6 +20,7 @@ const AllPhotos = async () => {
                             <Image className="rounded-xl object-cover"
 
                                 alt={photo.title}
+                                sizes="(max-width: 768px) 100vw, 33vw"
                                 fill
                                 src={photo.imageUrl}
                             />
@@ -40,9 +42,9 @@ const AllPhotos = async () => {
                             </div>
                         </div>
 
-                        <div>
+                        <Link href={`all-photos/${photo.id}`}>
                             <Button className="w-full" variant="outline" >View</Button>
-                        </div>
+                        </Link>
 
 
 
